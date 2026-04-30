@@ -1,6 +1,5 @@
 import { useEffect, useRef, useState } from 'react';
 import { useT } from '../i18n';
-import { BrandLogo } from './BrandLogo';
 import { Icon } from './Icon';
 import type { AppConfig } from '../types';
 
@@ -11,7 +10,7 @@ interface Props {
 }
 
 /**
- * Compact avatar at the right of the project topbar. Click opens a dropdown
+ * Compact settings menu at the right of the project topbar. Click opens a dropdown
  * with the current AI endpoint and a Settings entry.
  */
 export function AvatarMenu({
@@ -52,7 +51,7 @@ export function AvatarMenu({
         aria-expanded={open}
         title={t('avatar.title')}
       >
-        <BrandLogo className="avatar-btn-photo" />
+        <Icon name="settings" size={16} />
       </button>
       {open ? (
         <div className="avatar-popover" role="menu">

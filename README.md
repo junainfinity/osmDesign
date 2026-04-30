@@ -10,6 +10,20 @@ osmDesign is a local-first AI design workspace for prototypes, slide decks, and 
 - Use osmAPI.com for hosted AI models, or connect a local OpenAI-compatible server such as Ollama or LM Studio.
 - Package the workspace as a desktop app for macOS and Windows.
 
+## Screenshots
+
+| Workspace home | osmAPI settings |
+| --- | --- |
+| ![osmDesign workspace home](docs/screenshots/01-home-light.png) | ![osmAPI endpoint settings](docs/screenshots/02-settings-osmapi.png) |
+
+| Project creation | Design-system picker |
+| --- | --- |
+| ![osmDesign project type picker](docs/screenshots/03-new-project-types.png) | ![osmDesign design-system picker](docs/screenshots/04-design-system-picker.png) |
+
+| Project workspace | Dark theme |
+| --- | --- |
+| ![osmDesign project workspace](docs/screenshots/05-project-workspace.png) | ![osmDesign dark theme home](docs/screenshots/06-home-dark.png) |
+
 ## AI Providers
 
 osmDesign keeps provider setup deliberately narrow:

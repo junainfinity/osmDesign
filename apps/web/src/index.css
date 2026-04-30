@@ -295,6 +295,7 @@ code {
   border-radius: var(--radius-sm);
   background: transparent;
   border: 1px solid transparent;
+  color: var(--text-muted);
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -305,6 +306,7 @@ code {
   background: var(--bg-subtle);
   box-shadow: none;
   border-color: var(--border);
+  color: var(--text);
 }
 .avatar-btn:focus-visible {
   outline: none;
@@ -312,17 +314,6 @@ code {
   border-color: transparent;
 }
 .avatar-btn:active:not(:disabled) { transform: scale(0.96); }
-.avatar-btn-photo {
-  width: 26px;
-  height: 26px;
-  object-fit: contain;
-  object-position: 50% 50%;
-  display: block;
-  user-select: none;
-  -webkit-user-drag: none;
-  pointer-events: none;
-}
-
 .theme-toggle {
   width: 32px;
   height: 32px;
