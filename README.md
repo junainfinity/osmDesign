@@ -1,5 +1,7 @@
 # osmDesign
 
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
+
 osmDesign is a local-first AI design workspace for prototypes, slide decks, and reusable templates. It pairs a web workspace with a local daemon and desktop shell so generated files stay on your machine while the app handles previewing, editing, exports, and project history.
 
 ## What It Does
@@ -77,6 +79,6 @@ Windows packaging is part of the desktop packaging roadmap and uses the same app
 
 ## License
 
-See `LICENSE`.
+osmDesign is licensed under the Apache License 2.0. See `LICENSE`.
 
-<sub>With thanks to [Open Design](https://github.com/nexu-io/open-design).</sub>
+<sub>With thanks to [React](https://github.com/facebook/react), [Next.js](https://github.com/vercel/next.js), [Electron](https://github.com/electron/electron), [Open Design](https://github.com/nexu-io/open-design), [Playwright](https://github.com/microsoft/playwright), and [Vitest](https://github.com/vitest-dev/vitest).</sub>
