@@ -81,4 +81,4 @@ Windows packaging is part of the desktop packaging roadmap and uses the same app
 
 osmDesign is licensed under the Apache License 2.0. See `LICENSE`.
 
-<sub>With thanks to [React](https://github.com/facebook/react), [Next.js](https://github.com/vercel/next.js), [Electron](https://github.com/electron/electron), [Open Design](https://github.com/nexu-io/open-design), [Playwright](https://github.com/microsoft/playwright), and [Vitest](https://github.com/vitest-dev/vitest).</sub>
+<sub>With thanks to [React](https://github.com/facebook/react), [Next.js](https://github.com/vercel/next.js), [Electron](https://github.com/electron/electron), [Playwright](https://github.com/microsoft/playwright), [Vitest](https://github.com/vitest-dev/vitest), [Open Design](https://github.com/nexu-io/open-design), [Huashu Design](https://github.com/alchaincyf/huashu-design) and [Open Codesign](https://github.com/OpenCoworkAI/open-codesign).</sub>
