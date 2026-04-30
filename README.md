@@ -78,3 +78,5 @@ Windows packaging is part of the desktop packaging roadmap and uses the same app
 ## License
 
 See `LICENSE`.
+
+<sub>With thanks to [Open Design](https://github.com/nexu-io/open-design).</sub>

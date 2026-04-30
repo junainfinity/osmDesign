@@ -998,6 +998,18 @@ code {
 .seg-btn:disabled { opacity: 0.55; cursor: not-allowed; }
 
 .settings-section { display: flex; flex-direction: column; gap: 12px; }
+.settings-ack {
+  margin: auto 0 0;
+  color: var(--text-faint);
+  font-size: 11px;
+  line-height: 1.4;
+}
+.settings-ack a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.settings-ack a:hover { color: var(--text-muted); }
 
 .media-provider-list {
   display: flex;

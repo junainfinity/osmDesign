@@ -316,6 +316,17 @@ export function SettingsDialog({
                 </div>
               </section>
             ) : null}
+            <p className="settings-ack">
+              With thanks to{' '}
+              <a
+                href="https://github.com/nexu-io/open-design"
+                target="_blank"
+                rel="noreferrer"
+              >
+                Open Design
+              </a>
+              .
+            </p>
           </div>
         </div>
 
